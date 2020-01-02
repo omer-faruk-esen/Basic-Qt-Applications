@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>TextInputElement.qml</file>
+        <file>TextEdit.qml</file>
+        <file>MouseAreaDragDrop.qml</file>
+        <file>KeysAttachedProperty.qml</file>
+        <file>KeyNavigation.qml</file>
+        <file>MButton.qml</file>
+        <file>FocusScopeMain.qml</file>
+    </qresource>
+</RCC>
